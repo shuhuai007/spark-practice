@@ -1,0 +1,7 @@
+name;age;job
+Jorge;30;Developer
+Bob;32;Developer
+hello;good;morning
+hello;good;afternoon
+how;are;you
+how;do;you;do
