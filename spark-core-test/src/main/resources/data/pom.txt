@@ -1,0 +1,6 @@
+how are you today
+where are you from , who knows?
+Fine, thank you
+good afternoon
+with pipeling, any sequence of opeartions that feed data directly into each other, whithout needing to move it accross
+nodes, is colleapsed into a single stage of tasks that do all the operations together

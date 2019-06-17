@@ -1,0 +1,10 @@
+elephant,100,100,daxiang
+horse,80,70,ma
+cat,20,40,mao
+dog,30,30,gou
+dog,40,20,gou
+dog,10,10,gou2
+dog,10,5,gou3
+horse,90,70,ma2
+elephant,100,101, daxiang2
+elephant,10333,101, daxiang2
